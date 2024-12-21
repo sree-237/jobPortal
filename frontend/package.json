@@ -16,7 +16,7 @@
     "@radix-ui/react-popover": "^1.0.7",
     "@radix-ui/react-radio-group": "^1.2.0",
     "@radix-ui/react-select": "^2.1.1",
-    "@radix-ui/react-slot": "^1.1.0",
+    "@radix-ui/react-slot": "^1.1.1",
     "@reduxjs/toolkit": "^2.5.0",
     "axios": "^1.7.9",
     "class-variance-authority": "^0.7.0",
@@ -30,6 +30,7 @@
     "react-redux": "^9.2.0",
     "react-router-dom": "^6.23.1",
     "redux-persist": "^6.0.0",
+    "shadcn": "^2.1.8",
     "sonner": "^1.5.0",
     "tailwind-merge": "^2.3.0",
     "tailwindcss-animate": "^1.0.7"
